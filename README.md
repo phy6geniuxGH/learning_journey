@@ -122,3 +122,4 @@
 - Personal and AI knowledge management
 - Voice-instructed AI Agents
 - Functional Programming
+- Optimization
