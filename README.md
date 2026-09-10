@@ -18,7 +18,7 @@
 - Databricks Advanced ML
 - Databrics for Data Science and Engineering
 - Tensorflow
-- Time Series Forecasting
+- Time Series Forecasting using Python
 - Generative AI
 - Agentic Engineering
 - Git By Bit
