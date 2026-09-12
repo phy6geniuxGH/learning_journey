@@ -72,6 +72,7 @@
 - Developer Guide to AI
 - OpenAI Academy
 - Claude Academy
+- Google Skills
 
 # Others
 - AI-instructed Lessons
