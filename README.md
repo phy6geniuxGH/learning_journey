@@ -120,7 +120,7 @@
 - Agent Harness Protocol
 - Obsidian Notes + AI Agent in Terminal
 - Markdown Memories
-- Serverless
+- Serverless CPU/GPU
 - Application Engineering
 - Personal and AI knowledge management
 - Voice-instructed AI Agents
