@@ -10,6 +10,7 @@
 - Advanced Machine Learning
 - Data Science
 - Data Architecture
+- Cybersecurity
 - Software Engineering
 - System Design
 - End-to-End Machine Learning Production Deployment
