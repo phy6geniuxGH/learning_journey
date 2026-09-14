@@ -99,6 +99,7 @@
 - Microsoft Azure
 - APIs
 - RAGs
+- GraphRAG
 - LLMs
 - MCPs
 - OKF (Open Knowledge Format)
