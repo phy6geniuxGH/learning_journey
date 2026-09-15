@@ -52,7 +52,7 @@
 - Snowflake Application Deployment
 - Udacity AI Agentic Engineering
 - Physics-informed Neural Networks
-- AWS Skillbuilder
+- Data Science in AWS Skillbuilder
 - Snowflake Tutorials
 - Databricks Tutorials
 - Linux Commands
