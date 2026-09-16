@@ -1,6 +1,7 @@
 # Various MOOC Courses
 - Deep Learning
 - Convolutional Neural Networks
+- Transformer Architecture
 - Natural Language Processing
 - Neural Networks
 - Data Engineering
