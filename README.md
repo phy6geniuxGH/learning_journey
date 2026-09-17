@@ -128,3 +128,4 @@
 - Voice-instructed AI Agents
 - Functional Programming
 - Optimization
+- Recursive Self-Improvement
