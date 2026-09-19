@@ -124,6 +124,7 @@
 - Markdown Memories
 - Serverless CPU/GPU
 - Application Engineering
+- Jev
 - Personal and AI knowledge management
 - Voice-instructed AI Agents
 - Functional Programming
