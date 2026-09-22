@@ -132,3 +132,4 @@
 - Recursive Self-Improvement
 - Reinforcement Learning from Human Feedback (RLHF)
 - Reinforcement Learning for Calibrated Decisions (RLCD)
+- Classifier-based AI
