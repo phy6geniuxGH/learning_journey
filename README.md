@@ -134,3 +134,4 @@
 - Reinforcement Learning for Calibrated Decisions (RLCD)
 - Classifier-based AI
 - AI-based CFD and Rendering
+- Dynamic Frontends
