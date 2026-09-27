@@ -101,7 +101,7 @@
 - APIs
 - RAGs
 - GraphRAG
-- Vector RAG
+- Vector RAGs
 - LLMs
 - MCPs
 - OKF (Open Knowledge Format)
