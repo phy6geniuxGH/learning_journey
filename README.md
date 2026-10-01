@@ -139,3 +139,4 @@
 - End-to-end Software Engineering
 - Contrastive Language Models
 - LLM-as-a-judge
+- Agentic Operating System for the Second Brain (AOSSBrain)
