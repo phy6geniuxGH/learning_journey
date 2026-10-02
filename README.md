@@ -140,3 +140,4 @@
 - Contrastive Language Models
 - LLM-as-a-judge
 - Agentic Operating System for the Second Brain (AOSSBrain)
+- Loop Transformer Architecture
