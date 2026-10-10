@@ -98,6 +98,7 @@
 
 # Tech Ideas
 - Microsoft Azure
+- AWS 
 - APIs
 - RAGs
 - GraphRAG
