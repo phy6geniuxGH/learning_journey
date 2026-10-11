@@ -5,7 +5,7 @@
 - Natural Language Processing
 - Neural Networks
 - Data Engineering
-- Physics calculations
+- Physics Calculations
 - Data Analytics
 - Machine Learning
 - Advanced Machine Learning
@@ -18,7 +18,7 @@
 - Pytorch
 - Databricks ML
 - Databricks Advanced ML
-- Databrics for Data Science and Engineering
+- Databricks for Data Science and Engineering
 - Tensorflow
 - Time Series Forecasting using Python
 - Generative AI
