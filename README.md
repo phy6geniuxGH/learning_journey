@@ -143,3 +143,5 @@
 - Agentic Operating System for the Second Brain (AOSSBrain)
 - Loop Transformer Architecture
 - Physics-informed Neural Networks
+- AI/ML Systems Engineering
+- System 1 and 2 Thinking Models
