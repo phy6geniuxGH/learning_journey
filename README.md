@@ -140,6 +140,7 @@
 - End-to-end Software Engineering
 - Contrastive Language Models
 - LLM-as-a-judge
+- LLM verifications
 - Agentic Operating System for the Second Brain (AOSSBrain)
 - Loop Transformer Architecture
 - Physics-informed Neural Networks
