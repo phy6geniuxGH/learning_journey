@@ -146,3 +146,4 @@
 - Physics-informed Neural Networks
 - AI/ML Systems Engineering
 - System 1 and 2 Thinking Models
+- 3D Model generators
