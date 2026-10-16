@@ -57,7 +57,8 @@
 - Snowflake Tutorials
 - Databricks Tutorials
 - Linux Commands
-- Uplimit Courses
+- Uplimit Course on Databricks Data Engineering
+- Google Machine Learning Course
   
 # Textbooks
 - Machine Learning Systems
@@ -147,3 +148,6 @@
 - AI/ML Systems Engineering
 - System 1 and 2 Thinking Models
 - 3D Model generators
+
+# Topics
+- Zero-shot Classification
