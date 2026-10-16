@@ -151,3 +151,4 @@
 
 # Topics
 - Zero-shot Classification
+- Churn prediction
