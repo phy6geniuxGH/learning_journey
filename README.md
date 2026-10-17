@@ -56,7 +56,7 @@
 - Data Science in AWS Skillbuilder
 - Snowflake Tutorials
 - Databricks Tutorials
-- Linux Commands
+- Linux Terminal Commands
 - Uplimit Course on Databricks Data Engineering
 - Google Machine Learning Course
   
