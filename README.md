@@ -59,6 +59,7 @@
 - Linux Terminal Commands
 - Uplimit Course on Databricks Data Engineering
 - Google Machine Learning Course
+- Motion Design
   
 # Textbooks
 - Machine Learning Systems
