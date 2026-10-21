@@ -150,6 +150,8 @@
 - System 1 and 2 Thinking Models
 - 3D Model generators
 - Hybrid Architectures for LLMs
+- Hybrid Reasoning Agents
+- Next-Concept Modeling
 
 # Topics
 - Zero-shot Classification
