@@ -60,6 +60,7 @@
 - Uplimit Course on Databricks Data Engineering
 - Google Machine Learning Course
 - Motion Design
+- Github Actions
   
 # Textbooks
 - Machine Learning Systems
