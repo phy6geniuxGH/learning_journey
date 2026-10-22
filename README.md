@@ -153,6 +153,9 @@
 - Hybrid Architectures for LLMs
 - Hybrid Reasoning Agents
 - Next-Concept Modeling
+- Encoder-Decoder Architecture
+- Latent Spaces
+- J-Spaces
 
 # Topics
 - Zero-shot Classification
