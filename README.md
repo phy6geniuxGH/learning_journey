@@ -160,3 +160,4 @@
 # Topics
 - Zero-shot Classification
 - Churn prediction
+- Description-based Item Classification
