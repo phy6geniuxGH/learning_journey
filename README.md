@@ -78,6 +78,7 @@
 - OpenAI Academy
 - Claude Academy
 - Google Skills
+- Algebgraic Topology for Machine Learning
 
 # Others
 - AI-instructed Lessons
