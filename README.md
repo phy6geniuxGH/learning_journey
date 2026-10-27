@@ -162,3 +162,4 @@
 - Zero-shot Classification
 - Churn prediction
 - Description-based Item Classification
+- System 1 Thinking Classification
