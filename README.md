@@ -107,6 +107,7 @@
 - RAGs
 - GraphRAG
 - Vector RAGs
+- Knowledge Bases
 - LLMs
 - MCPs
 - OKF (Open Knowledge Format)
