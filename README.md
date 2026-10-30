@@ -166,3 +166,4 @@
 - System 1 Thinking Classification
 - Regression Modeling
 - Anonymization
+- Computational Physics
