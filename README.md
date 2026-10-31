@@ -167,3 +167,4 @@
 - Regression Modeling
 - Anonymization
 - Computational Physics
+- Physics-informed Neural Networks
