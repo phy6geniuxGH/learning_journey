@@ -159,6 +159,8 @@
 - Latent Spaces
 - J-Spaces
 - Elastic Latent Recurrence
+- 3D Gaussian Splatting
+- Neural Radiance Fields
 
 # Topics
 - Zero-shot Classification
