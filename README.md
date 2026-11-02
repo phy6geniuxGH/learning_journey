@@ -158,6 +158,7 @@
 - Encoder-Decoder Architecture
 - Latent Spaces
 - J-Spaces
+- Elastic Latent Recurrence
 
 # Topics
 - Zero-shot Classification
