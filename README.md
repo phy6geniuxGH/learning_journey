@@ -161,6 +161,8 @@
 - Elastic Latent Recurrence
 - 3D Gaussian Splatting
 - Neural Radiance Fields
+- Weight-Space Programming
+- Deep Learning Reactive Optimizer
 
 # Topics
 - Zero-shot Classification
