@@ -61,6 +61,7 @@
 - Google Machine Learning Course
 - Motion Design
 - Github Actions
+- AI Engineering with Claude
   
 # Textbooks
 - Machine Learning Systems
