@@ -176,3 +176,4 @@
 - Physics-informed Neural Networks
 - Multi-agent workflows
 - Agent Orchestration
+- Sentiment Deep Analysis
