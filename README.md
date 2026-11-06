@@ -177,3 +177,4 @@
 - Multi-agent workflows
 - Agent Orchestration
 - Sentiment Deep Analysis
+- Transformer Architecture
