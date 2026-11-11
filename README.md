@@ -180,3 +180,4 @@
 - Transformer Architecture
 - Voice of Customer
 - Small LLM Harness
+- Agentic prompting
