@@ -181,3 +181,4 @@
 - Voice of Customer
 - Small LLM Harness
 - Agentic prompting
+- Copilot Deck Automations
