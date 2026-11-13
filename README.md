@@ -182,3 +182,4 @@
 - Small LLM Harness
 - Agentic prompting
 - Copilot Deck Automations
+- Theme Extraction
