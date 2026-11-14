@@ -183,3 +183,4 @@
 - Agentic prompting
 - Copilot Deck Automations
 - Theme Extraction
+- Query Extraction
