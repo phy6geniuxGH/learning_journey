@@ -185,3 +185,4 @@
 - Copilot Deck Automations
 - Theme Extraction
 - Query Extraction
+- Semantic Matching
