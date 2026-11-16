@@ -179,6 +179,7 @@
 - Sentiment Deep Analysis
 - Transformer Architecture
 - Voice of Customer
+- Language Translation
 - Small LLM Harness
 - Agentic prompting
 - Copilot Deck Automations
