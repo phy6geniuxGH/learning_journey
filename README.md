@@ -186,3 +186,4 @@
 - Theme Extraction
 - Query Extraction
 - Semantic Matching
+- Named Entity Recognition
