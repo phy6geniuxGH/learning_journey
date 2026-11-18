@@ -187,3 +187,4 @@
 - Query Extraction
 - Semantic Matching
 - Named Entity Recognition
+- PII Detection
