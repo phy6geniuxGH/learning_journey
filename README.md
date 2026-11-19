@@ -164,6 +164,7 @@
 - Neural Radiance Fields
 - Weight-Space Programming
 - Deep Learning Reactive Optimizer
+- Joint Embedding Predictive Architecture
 
 # Topics
 - Zero-shot Classification
