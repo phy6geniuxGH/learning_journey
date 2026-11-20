@@ -165,6 +165,7 @@
 - Weight-Space Programming
 - Deep Learning Reactive Optimizer
 - Joint Embedding Predictive Architecture
+- Automated AI Research
 
 # Topics
 - Zero-shot Classification
