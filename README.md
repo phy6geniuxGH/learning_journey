@@ -62,6 +62,7 @@
 - Motion Design
 - Github Actions
 - AI Engineering with Claude
+- AI Coding Crash Course by Matt Pocock
   
 # Textbooks
 - Machine Learning Systems
