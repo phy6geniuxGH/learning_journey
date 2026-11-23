@@ -192,3 +192,4 @@
 - Named Entity Recognition
 - PII Detection
 - Agentic Systems
+- MANIMGX animations
