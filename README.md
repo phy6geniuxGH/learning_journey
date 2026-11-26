@@ -189,6 +189,7 @@
 - Theme Extraction
 - Query Extraction
 - Semantic Matching
+- AI Knowledge Bases
 - Named Entity Recognition
 - PII Detection
 - Agentic Systems
