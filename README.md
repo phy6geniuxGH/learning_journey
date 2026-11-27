@@ -195,3 +195,5 @@
 - Agentic Systems
 - MANIMGX animations
 - AI Coding
+- Parametric Modeling
+- State-based Modeling
